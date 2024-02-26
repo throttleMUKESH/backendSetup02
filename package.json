@@ -1,0 +1,11 @@
+{
+  "name": "expresssetup02",
+  "version": "1.0.0",
+  "description": "backendSetup 02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mukesh Chaudhary",
+  "license": "ISC"
+}
